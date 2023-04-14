@@ -1,0 +1,12 @@
+
+## annað skjal, gert á nýju tölvu og ýtt yfir á github.com
+## síðan sótt þaðan og inn á gömlu tölvu.
+
+```{r}
+library(tidyverse)
+dat<-6+4
+p<- ggplot()
+
+
+```
+
